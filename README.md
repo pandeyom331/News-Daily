@@ -4,8 +4,7 @@
 
 <h1>News-Daily</h1>
 <a href="https://expo.dev/@pandeyom331/news-daily">News-Daily</a>
-Created using Node.js, Express.js, MongoDB, Ejs, BootStrap, HTML, CSS and Deployed on Heroku.
-
+News-Daily Created using ReactJS, React-Native, styled-components and deployed on Expo.
 <p align="center">
   
 </p>
