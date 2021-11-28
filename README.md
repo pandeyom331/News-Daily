@@ -4,7 +4,7 @@
 
 <h1>News-Daily</h1>
 <a href="https://expo.dev/@pandeyom331/news-daily">News-Daily</a>
-News-Daily Created using ReactJS, React-Native, styled-components and deployed on Expo.
+Created using ReactJS, React-Native, styled-components and deployed on Expo.
 <p align="center">
   
 </p>
